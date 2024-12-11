@@ -1,0 +1,30 @@
+.nav{
+    height: 45px;
+    width: 100%;
+    color: white;
+    display: flex;
+    align-items: baseline;
+    text-decoration: none;
+    justify-content: space-between;
+    padding: 8px;
+
+}
+.manu_list
+{
+    display: flex;
+    margin-right: 40px;
+    width: 500px;
+
+}
+ul{
+    display: flex;
+    justify-content: space-evenly;
+    margin-right: 20px;
+    text-decoration: none;
+    width: 500px;
+    list-style: none;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
